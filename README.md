@@ -110,8 +110,3 @@ Esse curso teve como objetivo utilizar o ChatGPT como assistente pessoal na aná
 Exploramos os processos de extração, tratamento e visualização de dados, criação de scripts em Python personalizados de acordo com os prompts executados no ChatGPT e reconhecimento das limitações e possibilidades do uso de IAs na otimização de processos de análise e visualização de dados.
 
 Além disso, criamos gráficos dos mais diversos tipos partindo do uso das bibliotecas mais utilizadas em Python, personalizando-os e adicionando recursos visuais como anotações, destaques, legenda de dados e outras técnicas de visualização. 
-
-Ao concluir este curso, você será capaz de gerar um **Jupyter Notebook** (Google Colab) com o processo da análise exploratória dos dados, visualizações personalizadas e voltadas ao tipo de público que você deseja, combinando a linguagem Python com o ChatGPT.
-
-Sinta-se à vontade para fazer o fork desse projeto e construir o seu portfólio 😊
-

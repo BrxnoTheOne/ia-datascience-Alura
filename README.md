@@ -1,12 +1,3 @@
-# IA aplicada a Data Science: utilizando IA na construção de visualização de dados
-
-Boas-vindas a mais um curso de **inteligência artificial** da Alura! 
-
-Esse Github foi produzido com muito carinho para você montar o seu portfólio com as atividades do curso e elaborar suas próprias hipóteses, testar as técnicas exploradas dentro do curso e também adicionar outras durante a prática conciliando a linguagem Python e o suporte de ferramentas de IA como o ChatGPT. Tudo isso voltado ao tema de visualização de dados.
-
-O objetivo deste curso é auxiliar você a utilizar o ChatGPT como um assistente pessoal para agilizar as análises de dados e gerar visualizações refinadas por meio da linguagem Python. Você irá aprender a combinar os conhecimentos prévios de análise de dados junto ao auxílio das respostas do ChatGPT por meio de prompts elaborados que visam extrair, tratar e visualizar dados em um projeto prático. Este projeto possibilita sair da leitura de dados de arquivos .CSV extraído deste repositório até a geração de visuais em Python para a construção de um storytelling para um relatório.
-
-É importante que você tenha um **conhecimento básico** das **bibliotecas de visualização** de Python, bem como da **biblioteca de manipulação de dados** do **Pandas**.
 
 ## Introdução
 
